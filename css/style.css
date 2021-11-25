@@ -347,4 +347,6 @@ body.content ul ul{
 }
 .Chat_buttons{
   display: flex;
+  margin: 0 3px 0 3px;
+  justify-content: center;
 }
